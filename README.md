@@ -1,2 +1,2 @@
 # SmartHub
-Website to purchase STEM education materials
+[Website](https://gosmarthub.com) for companies to purchase STEM education materials
